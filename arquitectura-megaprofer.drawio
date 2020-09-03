@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T19:37:20.367Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Iy6uB2_DC5JKk4zsrbwI" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-03T19:49:38.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ov6VQND6XlxQ8JgwrNh9" version="13.6.6" type="github">
   <diagram id="74e2e168-ea6b-b213-b513-2b3c1d86103e" name="Page-1">
     <mxGraphModel dx="1038" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,6 +68,20 @@
         </mxCell>
         <mxCell id="b44zEPOn9F3BgOh4Rijz-4" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_farm;fillColor=#7FBA42;" vertex="1" parent="b44zEPOn9F3BgOh4Rijz-3">
           <mxGeometry x="52" y="97" width="56" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="b44zEPOn9F3BgOh4Rijz-5" value="LEGACYS" style="shape=swimlane;startSize=25;fontSize=13;fontColor=#333333;fontStyle=1;align=center;strokeColor=#666666;strokeOpacity=100;fillOpacity=100;rotation=0;fillColor=#ffffff;strokeWidth=1.2;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-1087" width="160" height="647" as="geometry">
+            <mxRectangle x="240" y="-1087" width="110" height="25" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b44zEPOn9F3BgOh4Rijz-6" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_farm;fillColor=#7FBA42;" vertex="1" parent="b44zEPOn9F3BgOh4Rijz-5">
+          <mxGeometry x="52" y="97" width="56" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="b44zEPOn9F3BgOh4Rijz-7" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.physical_host_farm;fillColor=#2072B8;" vertex="1" parent="b44zEPOn9F3BgOh4Rijz-5">
+          <mxGeometry x="52" y="227" width="56" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="b44zEPOn9F3BgOh4Rijz-8" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_farm;fillColor=#DA4026;" vertex="1" parent="b44zEPOn9F3BgOh4Rijz-5">
+          <mxGeometry x="52" y="337" width="56" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
