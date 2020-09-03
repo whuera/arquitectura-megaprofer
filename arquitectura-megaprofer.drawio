@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-03T19:49:38.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ov6VQND6XlxQ8JgwrNh9" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-03T19:50:57.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="eku-d5_peH-qRxEnd5lY" version="13.6.6" type="github">
   <diagram id="74e2e168-ea6b-b213-b513-2b3c1d86103e" name="Page-1">
     <mxGraphModel dx="1038" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,6 +82,9 @@
         </mxCell>
         <mxCell id="b44zEPOn9F3BgOh4Rijz-8" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_farm;fillColor=#DA4026;" vertex="1" parent="b44zEPOn9F3BgOh4Rijz-5">
           <mxGeometry x="52" y="337" width="56" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="b44zEPOn9F3BgOh4Rijz-9" value="Arquitectura MegaProfer Alto Nivel" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-1145" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
