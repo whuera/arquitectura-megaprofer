@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T22:02:26.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="QER97fPLB1nYEM0VoGTX" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T22:10:05.067Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="h18w1YoVIs_7icdOC4E9" version="13.6.6" type="github">
   <diagram id="74e2e168-ea6b-b213-b513-2b3c1d86103e" name="Page-1">
     <mxGraphModel dx="1910" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
         <mxCell id="b44zEPOn9F3BgOh4Rijz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="kFB3VKsAzfuebwOxzI4B-119" target="kFB3VKsAzfuebwOxzI4B-123">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b44zEPOn9F3BgOh4Rijz-63" value="next" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" vertex="1" connectable="0" parent="b44zEPOn9F3BgOh4Rijz-18">
+        <mxCell id="b44zEPOn9F3BgOh4Rijz-63" value="next" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="b44zEPOn9F3BgOh4Rijz-18">
           <mxGeometry x="0.2956" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -137,7 +137,7 @@
             <mxPoint x="240" y="-640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b44zEPOn9F3BgOh4Rijz-21" value="Rest" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" vertex="1" connectable="0" parent="b44zEPOn9F3BgOh4Rijz-15">
+        <mxCell id="b44zEPOn9F3BgOh4Rijz-21" value="Rest" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="b44zEPOn9F3BgOh4Rijz-15">
           <mxGeometry x="-0.3188" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
