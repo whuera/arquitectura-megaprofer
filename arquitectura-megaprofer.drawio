@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T22:15:58.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="w6PrLog20WZaUPIHA4kI" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T22:18:05.761Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="eE8E1qjM5Kq8UdtV2odl" version="13.6.6" type="github">
   <diagram id="74e2e168-ea6b-b213-b513-2b3c1d86103e" name="Page-1">
     <mxGraphModel dx="1851" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="b44zEPOn9F3BgOh4Rijz-67" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#666666;fillColor=none;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="-1160" width="1140" height="1000" as="geometry" />
+        </mxCell>
         <mxCell id="b44zEPOn9F3BgOh4Rijz-3" value="Pedidos" style="shape=swimlane;startSize=25;fontSize=13;fontColor=#333333;fontStyle=1;align=center;strokeColor=#666666;strokeOpacity=100;fillOpacity=100;rotation=0;fillColor=#ffffff;strokeWidth=1.2;" vertex="1" parent="1">
           <mxGeometry x="137" y="-1078" width="160" height="207" as="geometry">
             <mxRectangle x="240" y="-1087" width="110" height="25" as="alternateBounds" />
@@ -195,9 +198,6 @@
         <mxCell id="b44zEPOn9F3BgOh4Rijz-49" value="&lt;font style=&quot;font-size: 10px&quot;&gt;COMPRAS&lt;/font&gt;" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.physical_host;fillColor=#2072B8;labelBackgroundColor=none;fontSize=21;" vertex="1" parent="b44zEPOn9F3BgOh4Rijz-5">
           <mxGeometry x="96" y="448" width="27" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="b44zEPOn9F3BgOh4Rijz-9" value="Arquitectura MegaProfer Alto Nivel" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="-1160" width="340" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="b44zEPOn9F3BgOh4Rijz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;fontSize=21;" edge="1" parent="1" source="b44zEPOn9F3BgOh4Rijz-26" target="b44zEPOn9F3BgOh4Rijz-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -254,6 +254,9 @@
         </mxCell>
         <mxCell id="b44zEPOn9F3BgOh4Rijz-66" value="04-09-2020" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=10;fillColor=none;strokeColor=#666666;align=center;" vertex="1" parent="1">
           <mxGeometry x="-800" y="-220" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b44zEPOn9F3BgOh4Rijz-68" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 21px&quot;&gt;Arquitectura MegaProfer Alto Nivel&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=10;align=center;fontColor=#333333;strokeColor=none;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="-1160" width="410" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
