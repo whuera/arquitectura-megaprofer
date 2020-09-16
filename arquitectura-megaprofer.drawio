@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-16T21:33:36.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Y-7vHJZyVhnVCxH5aUX6" version="13.7.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-09-16T21:41:53.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="TCddaRs0hc456YVQw2aQ" version="13.7.0" type="github" pages="6">
   <diagram id="74e2e168-ea6b-b213-b513-2b3c1d86103e" name="General">
     <mxGraphModel dx="1935" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1044,12 +1044,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AvcuAzm5-zUu89RbWQnd" name="CONTNG-MEGAPOS">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="GMqHDvqijP6rv6DTU18s-0" />
         <mxCell id="GMqHDvqijP6rv6DTU18s-1" parent="GMqHDvqijP6rv6DTU18s-0" />
         <mxCell id="9lC-xXBOtK_-m5IIhtyo-0" value="ATIX" style="shape=swimlane;startSize=25;fontSize=13;fontStyle=1;align=center;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;rotation=0;fillColor=#dae8fc;strokeWidth=1.2;gradientColor=#ffffff;" vertex="1" parent="GMqHDvqijP6rv6DTU18s-1">
-          <mxGeometry x="30" y="50" width="200" height="790" as="geometry">
+          <mxGeometry x="10" y="20" width="200" height="790" as="geometry">
             <mxRectangle x="12.5" y="532" width="110" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1069,7 +1069,7 @@
           <mxGeometry x="10" y="150" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9lC-xXBOtK_-m5IIhtyo-4" value="FOLDER COMPARTIDO RED" style="shape=swimlane;startSize=25;fontSize=13;fontStyle=1;align=center;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;rotation=0;fillColor=#dae8fc;strokeWidth=1.2;gradientColor=#ffffff;" vertex="1" parent="GMqHDvqijP6rv6DTU18s-1">
-          <mxGeometry x="230" y="50" width="200" height="790" as="geometry">
+          <mxGeometry x="210" y="20" width="200" height="790" as="geometry">
             <mxRectangle x="12.5" y="532" width="110" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1092,7 +1092,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9lC-xXBOtK_-m5IIhtyo-12" value="KAFKA" style="shape=swimlane;startSize=25;fontSize=13;fontStyle=1;align=center;strokeColor=#6c8ebf;strokeOpacity=100;fillOpacity=100;rotation=0;fillColor=#dae8fc;strokeWidth=1.2;gradientColor=#ffffff;" vertex="1" parent="GMqHDvqijP6rv6DTU18s-1">
-          <mxGeometry x="430" y="50" width="200" height="790" as="geometry">
+          <mxGeometry x="410" y="20" width="200" height="790" as="geometry">
             <mxRectangle x="12.5" y="532" width="110" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1109,7 +1109,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9lC-xXBOtK_-m5IIhtyo-19" value="MEGAPOS" style="shape=swimlane;startSize=25;fontSize=13;fontStyle=1;align=center;strokeColor=#82b366;strokeOpacity=100;fillOpacity=100;rotation=0;fillColor=#d5e8d4;strokeWidth=1.2;swimlaneFillColor=none;gradientColor=#ffffff;" vertex="1" parent="GMqHDvqijP6rv6DTU18s-1">
-          <mxGeometry x="630" y="50" width="200" height="790" as="geometry">
+          <mxGeometry x="610" y="20" width="200" height="790" as="geometry">
             <mxRectangle x="12.5" y="532" width="110" height="25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1129,7 +1129,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9lC-xXBOtK_-m5IIhtyo-37" value="" style="group" vertex="1" connectable="0" parent="GMqHDvqijP6rv6DTU18s-1">
-          <mxGeometry x="30" y="860" width="190" height="90" as="geometry" />
+          <mxGeometry x="10" y="830" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9lC-xXBOtK_-m5IIhtyo-32" value="&lt;br&gt;&lt;br&gt;Proceso por desarrollar, implica creación de componentes tanto de front, back end" style="shape=rect;fontSize=12;html=1;whiteSpace=wrap;align=left;verticalAlign=top;spacing=5;rounded=0;dashed=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="9lC-xXBOtK_-m5IIhtyo-37">
           <mxGeometry width="190" height="90" as="geometry" />
