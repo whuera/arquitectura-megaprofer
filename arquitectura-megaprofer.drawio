@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T22:17:43.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="bVAozpTXxpGFegnl5ee1" version="13.7.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-09-30T22:21:53.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="CghpcjmJpBgze-HUCo5L" version="13.7.5" type="github" pages="7">
   <diagram id="74e2e168-ea6b-b213-b513-2b3c1d86103e" name="General">
     <mxGraphModel dx="1474" dy="1543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1141,7 +1141,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b4shotXb607RH3vinVqT" name="Transferencias">
-    <mxGraphModel dx="937" dy="541" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="543" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gsY5dMSV6gmoQTqoQW9L-0" />
         <mxCell id="gsY5dMSV6gmoQTqoQW9L-1" parent="gsY5dMSV6gmoQTqoQW9L-0" />
@@ -1154,11 +1154,11 @@
         <mxCell id="34GqB92i87YEmjStl9mW-0" value="&amp;nbsp;MEGAPOS-BACK" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="34GqB92i87YEmjStl9mW-9">
           <mxGeometry y="18" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="34GqB92i87YEmjStl9mW-6" value="clientes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="34GqB92i87YEmjStl9mW-9">
-          <mxGeometry y="18" width="51" height="25.299999999999997" as="geometry" />
+        <mxCell id="34GqB92i87YEmjStl9mW-6" value="&lt;font style=&quot;font-size: 9px&quot;&gt;transferencia in&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="34GqB92i87YEmjStl9mW-9">
+          <mxGeometry y="18" width="70" height="25.3" as="geometry" />
         </mxCell>
-        <mxCell id="34GqB92i87YEmjStl9mW-7" value="pedidos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="34GqB92i87YEmjStl9mW-9">
-          <mxGeometry y="42.69999999999999" width="51" height="25.3" as="geometry" />
+        <mxCell id="34GqB92i87YEmjStl9mW-7" value="&lt;font style=&quot;font-size: 9px&quot;&gt;transferencia out&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;" vertex="1" parent="34GqB92i87YEmjStl9mW-9">
+          <mxGeometry y="42.7" width="70" height="25.3" as="geometry" />
         </mxCell>
         <mxCell id="34GqB92i87YEmjStl9mW-8" value="MEGAPOS-FRONT / PTO VENTA 1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=10;" vertex="1" parent="34GqB92i87YEmjStl9mW-9">
           <mxGeometry width="240" height="18" as="geometry" />
@@ -1222,11 +1222,11 @@
         <mxCell id="VV0-AcQkVaOq-2-f_ZPF-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.server_farm;fillColor=#7FBA42;" vertex="1" parent="VV0-AcQkVaOq-2-f_ZPF-0">
           <mxGeometry x="60" y="31" width="42" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="VV0-AcQkVaOq-2-f_ZPF-2" value="clientes c." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="VV0-AcQkVaOq-2-f_ZPF-0">
-          <mxGeometry x="126" y="61.7" width="77" height="25.3" as="geometry" />
+        <mxCell id="VV0-AcQkVaOq-2-f_ZPF-2" value="&lt;font style=&quot;font-size: 9px&quot;&gt;transferencia out&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="VV0-AcQkVaOq-2-f_ZPF-0">
+          <mxGeometry x="114" y="61.7" width="89" height="25.3" as="geometry" />
         </mxCell>
-        <mxCell id="tLd7M9D64Z6PWYEf0oFG-3" value="pedidos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="VV0-AcQkVaOq-2-f_ZPF-0">
-          <mxGeometry x="126" y="36.400000000000006" width="77" height="25.3" as="geometry" />
+        <mxCell id="tLd7M9D64Z6PWYEf0oFG-3" value="&lt;font style=&quot;font-size: 9px&quot;&gt;transferencia in&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="VV0-AcQkVaOq-2-f_ZPF-0">
+          <mxGeometry x="114" y="36.4" width="89" height="25.3" as="geometry" />
         </mxCell>
         <mxCell id="tLd7M9D64Z6PWYEf0oFG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gsY5dMSV6gmoQTqoQW9L-1" source="tLd7M9D64Z6PWYEf0oFG-3" target="34GqB92i87YEmjStl9mW-7">
           <mxGeometry relative="1" as="geometry" />
