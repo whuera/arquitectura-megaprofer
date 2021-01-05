@@ -2,6 +2,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/whuera/arquitectura-megaprofer)](https://github.com/whuera/arquitectura-megaprofer/network)
 [![GitHub stars](https://img.shields.io/github/stars/whuera/arquitectura-megaprofer)](https://github.com/whuera/arquitectura-megaprofer/stargazers)
 [![GitHub license](https://img.shields.io/github/license/whuera/arquitectura-megaprofer)](https://github.com/whuera/arquitectura-megaprofer/blob/master/LICENSE)
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
 
 # Arquitectura-kubernetes (Reference AWS / Google-Cloud)
 diseño de arquitectura standar 
